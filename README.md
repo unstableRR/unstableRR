@@ -1,5 +1,5 @@
 ![logo](https://github.com/unstableRR/unstableRR/blob/main/unstableRR/final%20banner.png)
-<h1 align="center">Hi 👋, I'm Ritik Grover</h1>
+<h1 align="center">Hi 👋, I'm Ritik S GGrover</h1>
 <h3 align="center">A passionate backend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
